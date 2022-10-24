@@ -913,3 +913,1084 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.24-17.26.47:272][457]LogSlate: Window 'sprite-sheet-3' being destroyed
 [2022.10.24-17.43.16:119][692]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2022.10.24-17.45.15:438][843]LogSlate: Window 'Extract sprites' being destroyed
+[2022.10.24-17.52.55:687][309]LogHttp: Warning: 000001AB2C98C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-17.52.55:687][309]LogHttp: Warning: 000001AB2C98C100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.24-17.52.55:687][309]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ab502ffeb0 [can pipeline])
+[2022.10.24-17.52.55:687][309]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.10.24-17.52.55:687][309]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.6.244) port 443 (#0))
+[2022.10.24-17.52.55:687][309]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.24-17.52.55:687][309]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.24-17.52.55:687][309]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.24-17.52.55:687][309]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.24-17.52.55:687][309]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 7 (Closing connection 0)
+[2022.10.24-17.52.56:024][310]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-17.53.36:528][431]LogHttp: Warning: 000001AB2C98C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-17.53.36:528][431]LogHttp: Warning: 000001AB2C98C100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.24-17.53.36:528][431]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.24-17.53.36:528][431]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 1 (Closing connection 1)
+[2022.10.24-17.53.36:865][432]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-17.54.36:541][610]LogHttp: Warning: 000001AB2C98C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-17.54.36:541][610]LogHttp: Warning: 000001AB2C98C100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.24-17.54.36:541][610]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.24-17.54.36:541][610]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 1 (Closing connection 2)
+[2022.10.24-17.54.36:542][610]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-17.55.36:511][789]LogHttp: Warning: 000001AB2C98C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-17.55.36:511][789]LogHttp: Warning: 000001AB2C98C100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.24-17.55.36:511][789]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.24-17.55.36:511][789]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 1 (Closing connection 3)
+[2022.10.24-17.55.36:848][790]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-17.56.36:498][968]LogHttp: Warning: 000001AB2C98C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-17.56.36:498][968]LogHttp: Warning: 000001AB2C98C100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.24-17.56.36:498][968]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.24-17.56.36:498][968]LogHttp: Warning: 000001AB2C98C100: libcurl info message cache 1 (Closing connection 4)
+[2022.10.24-17.56.36:498][968]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-17.57.21:879][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.24-17.57.23:108][255]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-17.57.23:176][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.24-17.57.23:186][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.24-17.57.23:190][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-17.57.28:163][438]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/sprite-sheet-4.png)
+[2022.10.24-17.57.28:166][438]LogTexture: Display: Building textures: sprite-sheet-4 (BGRA8, 416X255)
+[2022.10.24-17.57.31:289][620]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/CharacterSprites/sprite-sheet-4.sprite-sheet-4
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 0 (  Trying 52.72.6.51...)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 2 (connect to 52.72.6.51 port 443 failed: Connection was aborted)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 3 (  Trying 54.87.212.134...)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 4 (TCP_NODELAY set)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 5 (connect to 54.87.212.134 port 443 failed: Network unreachable)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 6 (  Trying 18.210.226.224...)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 7 (TCP_NODELAY set)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 8 (connect to 18.210.226.224 port 443 failed: Network unreachable)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 9 (  Trying 18.233.248.142...)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 10 (TCP_NODELAY set)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 11 (connect to 18.233.248.142 port 443 failed: Network unreachable)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 12 (  Trying 34.203.17.84...)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 13 (TCP_NODELAY set)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 14 (connect to 34.203.17.84 port 443 failed: Network unreachable)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 15 (  Trying 34.204.227.192...)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 16 (TCP_NODELAY set)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 17 (connect to 34.204.227.192 port 443 failed: Network unreachable)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 18 (  Trying 34.224.204.145...)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 19 (TCP_NODELAY set)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 20 (connect to 34.224.204.145 port 443 failed: Network unreachable)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 21 (  Trying 52.22.253.90...)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 22 (TCP_NODELAY set)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 23 (connect to 52.22.253.90 port 443 failed: Network unreachable)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 24 (Failed to connect to datarouter.ol.epicgames.com port 443: Network unreachable)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: 000001AB4073CF00: libcurl info message cache 25 (Closing connection 5)
+[2022.10.24-17.57.43:042][310]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-17.57.44:751][406]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.10.24-17.57.54:876][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/sprite-sheet-4" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4.uasset" SILENT=true
+[2022.10.24-17.57.54:882][984]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4E48E215F41E0F79F2705E7995E3684FE.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4.uasset'
+[2022.10.24-17.57.54:891][984]AssetCheck: New page: Asset Save: sprite-sheet-4
+[2022.10.24-17.57.54:891][984]LogContentValidation: Display: Validating Texture2D /Game/CharacterSprites/sprite-sheet-4.sprite-sheet-4
+[2022.10.24-17.57.55:951][ 48]LogSlate: Window 'sprite-sheet-4' being destroyed
+[2022.10.24-17.57.55:954][ 48]LogSlate: Window 'sprite-sheet-4' being destroyed
+[2022.10.24-17.58.20:096][451]LogSlate: Window 'Extract sprites' being destroyed
+[2022.10.24-17.58.23:557][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.24-17.58.24:818][657]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-17.58.24:859][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.24-17.58.29:059][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-17.58.30:334][908]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-17.58.30:375][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.24-17.58.34:422][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-17.58.35:444][151]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-17.58.35:491][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: request failed, libcurl error: 7 (Couldn't connect to server)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 1 (  Trying 52.72.6.51...)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 3 (connect to 52.72.6.51 port 443 failed: Network unreachable)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 4 (  Trying 54.87.212.134...)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 5 (TCP_NODELAY set)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 6 (connect to 54.87.212.134 port 443 failed: Network unreachable)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 7 (  Trying 18.210.226.224...)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 8 (TCP_NODELAY set)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 9 (connect to 18.210.226.224 port 443 failed: Network unreachable)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 10 (  Trying 18.233.248.142...)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 11 (TCP_NODELAY set)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 12 (connect to 18.233.248.142 port 443 failed: Network unreachable)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 13 (  Trying 34.203.17.84...)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 14 (TCP_NODELAY set)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 15 (connect to 34.203.17.84 port 443 failed: Network unreachable)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 16 (  Trying 34.204.227.192...)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 17 (TCP_NODELAY set)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 18 (connect to 34.204.227.192 port 443 failed: Network unreachable)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 19 (  Trying 34.224.204.145...)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 20 (TCP_NODELAY set)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 21 (connect to 34.224.204.145 port 443 failed: Network unreachable)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 22 (  Trying 52.22.253.90...)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 23 (TCP_NODELAY set)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 24 (connect to 52.22.253.90 port 443 failed: Network unreachable)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 25 (Failed to connect to datarouter.ol.epicgames.com port 443: Network unreachable)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: 000001AB2C947900: libcurl info message cache 26 (Closing connection 6)
+[2022.10.24-17.58.36:038][184]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-17.58.40:425][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-17.58.41:332][446]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-17.58.41:374][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.24-17.58.45:371][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-17.58.46:634][685]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-17.58.46:675][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.24-17.59.18:971][389]LogSlate: Window 'Save Level As' being destroyed
+[2022.10.24-17.59.27:316][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.24-17.59.30:774][884]LogSlate: Window 'Save Content' being destroyed
+[2022.10.24-17.59.30:828][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_0B5C79941465610B923ABD894EB0EF748.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_0.uasset'
+[2022.10.24-17.59.30:839][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_10B2AC3F54FD9D34335E3368B1E99EF35.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_1.uasset'
+[2022.10.24-17.59.30:849][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_10D120E6784B7FD10B755EC28F9659DD0A.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_10.uasset'
+[2022.10.24-17.59.30:859][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_11648DB57C4A01BB28F267739AC87EC245.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_11.uasset'
+[2022.10.24-17.59.30:869][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_13B864B6784941E24BAB258A937E68E193.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_13.uasset'
+[2022.10.24-17.59.30:880][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_14C062463E46DC2DB4EA1182A6DD853C45.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_14.uasset'
+[2022.10.24-17.59.30:890][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_1532D63C6046761EF674E7A491DC294996.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_15.uasset'
+[2022.10.24-17.59.30:899][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_16E5F1B33148543737A52048832C016977.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_16.uasset'
+[2022.10.24-17.59.30:909][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_17D913123747705C5118F923B161594860.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_17.uasset'
+[2022.10.24-17.59.30:919][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_18077128924B758C5D022A33A50FA651DB.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_18.uasset'
+[2022.10.24-17.59.30:929][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_1902B4DB6546D07CBB9D613B8090A42AFA.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_19.uasset'
+[2022.10.24-17.59.30:939][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_2E304833845B70AA9468B26BE70729A87.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_2.uasset'
+[2022.10.24-17.59.30:948][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_2008E9E893448E38546D7EA381C284DBFB.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_20.uasset'
+[2022.10.24-17.59.30:958][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_219556934043A1E6C7DD9656929FF3AB6D.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_21.uasset'
+[2022.10.24-17.59.30:968][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_262F2FA3514EF06CCE9FBFDEBA97461B7C.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_26.uasset'
+[2022.10.24-17.59.30:978][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_2739FFEAA747F5F60AEB792BA53A1A3E78.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_27.uasset'
+[2022.10.24-17.59.30:988][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_28C3B19E5A4198779352DC728E53ED56FF.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_28.uasset'
+[2022.10.24-17.59.30:997][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_290E0A5C0C486A992148A458AD8132EBB8.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_29.uasset'
+[2022.10.24-17.59.31:007][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_398931F1B45F57DB6B1996F92AD96C85C.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_3.uasset'
+[2022.10.24-17.59.31:017][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_305C7C4F3D447344FE478DD1BA7A6D75CE.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_30.uasset'
+[2022.10.24-17.59.31:028][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_3125EC9ABF435F03B8CC1992ACE6BEAE8D.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_31.uasset'
+[2022.10.24-17.59.31:038][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_3268DDE98C4B10B8C5BCCB81AB57C780B4.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_32.uasset'
+[2022.10.24-17.59.31:048][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_334957CBAE4BC22588445DF0B2BEE2A3B3.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_33.uasset'
+[2022.10.24-17.59.31:056][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_347355BF30472724E104D908856D0D7777.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_34.uasset'
+[2022.10.24-17.59.31:065][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_35CFC2899F4CF44C77CB30DEB2CA5F12AF.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_35.uasset'
+[2022.10.24-17.59.31:075][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_36091743C043101D6A710C569DCAE691B1.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_36.uasset'
+[2022.10.24-17.59.31:085][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_376C5A822444264885C64D75A70CE7BA4B.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_37.uasset'
+[2022.10.24-17.59.31:094][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_38BEE3CDC74D57B67996C1FD913D00C9BF.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_38.uasset'
+[2022.10.24-17.59.31:104][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_395DCBBC1146F767CD6268DA946DDE088E.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_39.uasset'
+[2022.10.24-17.59.31:113][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_444C9634042E2771681E7359AF5E01258.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_4.uasset'
+[2022.10.24-17.59.31:123][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_4089E762FA4F18A1712E1FD09344455AE8.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_40.uasset'
+[2022.10.24-17.59.31:133][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_4120CDDA1D4398E04C21C3C88623C4B183.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_41.uasset'
+[2022.10.24-17.59.31:142][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_426ED4AF874CC54BA4F067FABCF6145A67.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_42.uasset'
+[2022.10.24-17.59.31:152][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_432C1776AA414F24795F6C828E58C0556A.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_43.uasset'
+[2022.10.24-17.59.31:162][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_44D8669AD145686EE65BEC9788AF62A345.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_44.uasset'
+[2022.10.24-17.59.31:172][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_45B4E255F8470943317044DC9791AC2706.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_45.uasset'
+[2022.10.24-17.59.31:182][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_462427360349DFDCE13ABEEF82C232D2BE.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_46.uasset'
+[2022.10.24-17.59.31:192][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_47B011EFC84C6F456A95B5A4BA91EFDC69.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_47.uasset'
+[2022.10.24-17.59.31:202][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_534AB63324B0F0F9D54EBF7BC16BFC0DF.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_5.uasset'
+[2022.10.24-17.59.31:212][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_523CA997B840B4E91E4F67E681EFA7B198.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_52.uasset'
+[2022.10.24-17.59.31:222][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_53632399DA4D8420984BA1C2BFF887A1B5.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_53.uasset'
+[2022.10.24-17.59.31:232][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_541662D835436D3F9954D1DBAFEF0BC76C.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_54.uasset'
+[2022.10.24-17.59.31:242][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_5515DBB0D74DA2CE1463B21BB32D3CC3F4.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_55.uasset'
+[2022.10.24-17.59.31:252][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_56A2C014514B3B18D174D49087F4A25C1A.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_56.uasset'
+[2022.10.24-17.59.31:261][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_572D1F6FB04540BED0CE0A93B75EAC2CF0.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_57.uasset'
+[2022.10.24-17.59.31:271][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_585EBDB28B456014A9354A569ED45DA916.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_58.uasset'
+[2022.10.24-17.59.31:280][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_591ADDC2864B5FAAD9AD06A8BAD0C250D6.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_59.uasset'
+[2022.10.24-17.59.31:290][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_660AF81B04EF8B4EC187C9B928A80FC11.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_6.uasset'
+[2022.10.24-17.59.31:299][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_60C9B380064C82177DCB017195CBA44241.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_60.uasset'
+[2022.10.24-17.59.31:309][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_61FB6C2B5144823FD562C1B6A97B52F25D.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_61.uasset'
+[2022.10.24-17.59.31:318][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_62D98D210A466249C4E83E67AF386E0360.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_62.uasset'
+[2022.10.24-17.59.31:328][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_653ECFFDBA45B850C3F4E5609239DE3A07.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_65.uasset'
+[2022.10.24-17.59.31:337][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_6684C89D77499756FDA97552A5081A5329.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_66.uasset'
+[2022.10.24-17.59.31:347][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_67376C81EB423A3FFC506078820D7DD5C6.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_67.uasset'
+[2022.10.24-17.59.31:356][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_680C29B4D94E42C095834C41BFEEF50AE5.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_68.uasset'
+[2022.10.24-17.59.31:366][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_69DF2909EF422FC74C4074CCBCCB2901EA.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_69.uasset'
+[2022.10.24-17.59.31:375][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_7CDB9149E4C6E08B9ADAAA9A71BC8BA0A.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_7.uasset'
+[2022.10.24-17.59.31:384][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_8713980DB4E18447A84E214AF3991BEFC.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_8.uasset'
+[2022.10.24-17.59.31:394][884]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-4_Sprite_9E4A601B94AE1F4221D8B24BFBD05A6BF.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-4_Sprite_9.uasset'
+[2022.10.24-17.59.31:411][884]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.24-17.59.31:411][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_7.sprite-sheet-4_Sprite_7
+[2022.10.24-17.59.31:411][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_6.sprite-sheet-4_Sprite_6
+[2022.10.24-17.59.31:411][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_5.sprite-sheet-4_Sprite_5
+[2022.10.24-17.59.31:411][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_4.sprite-sheet-4_Sprite_4
+[2022.10.24-17.59.31:411][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_3.sprite-sheet-4_Sprite_3
+[2022.10.24-17.59.31:411][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_2.sprite-sheet-4_Sprite_2
+[2022.10.24-17.59.31:411][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_1.sprite-sheet-4_Sprite_1
+[2022.10.24-17.59.31:411][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_0.sprite-sheet-4_Sprite_0
+[2022.10.24-17.59.31:411][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_8.sprite-sheet-4_Sprite_8
+[2022.10.24-17.59.31:411][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_9.sprite-sheet-4_Sprite_9
+[2022.10.24-17.59.31:411][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_10.sprite-sheet-4_Sprite_10
+[2022.10.24-17.59.31:411][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_11.sprite-sheet-4_Sprite_11
+[2022.10.24-17.59.31:411][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_13.sprite-sheet-4_Sprite_13
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_14.sprite-sheet-4_Sprite_14
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_15.sprite-sheet-4_Sprite_15
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_16.sprite-sheet-4_Sprite_16
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_17.sprite-sheet-4_Sprite_17
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_18.sprite-sheet-4_Sprite_18
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_19.sprite-sheet-4_Sprite_19
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_20.sprite-sheet-4_Sprite_20
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_21.sprite-sheet-4_Sprite_21
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_26.sprite-sheet-4_Sprite_26
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_27.sprite-sheet-4_Sprite_27
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_28.sprite-sheet-4_Sprite_28
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_29.sprite-sheet-4_Sprite_29
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_30.sprite-sheet-4_Sprite_30
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_31.sprite-sheet-4_Sprite_31
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_32.sprite-sheet-4_Sprite_32
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_33.sprite-sheet-4_Sprite_33
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_34.sprite-sheet-4_Sprite_34
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_35.sprite-sheet-4_Sprite_35
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_36.sprite-sheet-4_Sprite_36
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_37.sprite-sheet-4_Sprite_37
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_38.sprite-sheet-4_Sprite_38
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_39.sprite-sheet-4_Sprite_39
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_40.sprite-sheet-4_Sprite_40
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_41.sprite-sheet-4_Sprite_41
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_42.sprite-sheet-4_Sprite_42
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_43.sprite-sheet-4_Sprite_43
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_44.sprite-sheet-4_Sprite_44
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_45.sprite-sheet-4_Sprite_45
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_46.sprite-sheet-4_Sprite_46
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_47.sprite-sheet-4_Sprite_47
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_52.sprite-sheet-4_Sprite_52
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_53.sprite-sheet-4_Sprite_53
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_54.sprite-sheet-4_Sprite_54
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_55.sprite-sheet-4_Sprite_55
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_56.sprite-sheet-4_Sprite_56
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_57.sprite-sheet-4_Sprite_57
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_58.sprite-sheet-4_Sprite_58
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_59.sprite-sheet-4_Sprite_59
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_60.sprite-sheet-4_Sprite_60
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_61.sprite-sheet-4_Sprite_61
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_62.sprite-sheet-4_Sprite_62
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_65.sprite-sheet-4_Sprite_65
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_66.sprite-sheet-4_Sprite_66
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_67.sprite-sheet-4_Sprite_67
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_68.sprite-sheet-4_Sprite_68
+[2022.10.24-17.59.31:412][884]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-4_Sprite_69.sprite-sheet-4_Sprite_69
+[2022.10.24-17.59.36:015][161]LogHttp: Warning: 000001AB40A17900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-17.59.36:015][161]LogHttp: Warning: 000001AB40A17900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.24-17.59.36:015][161]LogHttp: Warning: 000001AB40A17900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.24-17.59.36:015][161]LogHttp: Warning: 000001AB40A17900: libcurl info message cache 1 (Closing connection 7)
+[2022.10.24-17.59.36:033][162]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-17.59.43:447][600]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.24-17.59.43:481][600]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.24-17.59.47:182][822]LogContentBrowser: Attempting asset rename: NewFolder -> FlipBook
+[2022.10.24-17.59.47:183][822]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.24-17.59.57:894][457]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2022.10.24-17.59.57:894][457]LogContentBrowser: Deferred new asset file creation: sprite-sheet-5
+[2022.10.24-17.59.57:913][457]LogContentBrowser: Creating deferred item: sprite-sheet-5
+[2022.10.24-17.59.59:526][554]LogContentBrowser: Attempting asset rename: sprite-sheet-5 -> sprite-sheet-5
+[2022.10.24-17.59.59:527][554]LogContentBrowser: End creating deferred item sprite-sheet-5
+[2022.10.24-17.59.59:677][562]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterSprites/sprite-sheet-5.sprite-sheet-5
+[2022.10.24-17.59.59:764][563]LogRenderer: Reallocating scene render targets to support 1000x432 Format 10 NumSamples 1 (Frame:1).
+[2022.10.24-18.00.35:985][730]LogHttp: Warning: 000001AB40A3EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-18.00.35:985][730]LogHttp: Warning: 000001AB40A3EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.24-18.00.35:985][730]LogHttp: Warning: 000001AB40A3EB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.24-18.00.35:985][730]LogHttp: Warning: 000001AB40A3EB00: libcurl info message cache 1 (Closing connection 8)
+[2022.10.24-18.00.35:985][730]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-18.00.43:797][197]LogSlate: Took 0.011614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.24-18.00.44:874][262]LogSlate: Window 'sprite-sheet-5' being destroyed
+[2022.10.24-18.00.44:880][262]LogSlate: Window 'sprite-sheet-5' being destroyed
+[2022.10.24-18.00.44:883][262]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-18.00.44:883][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-18.00.51:499][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.24-18.00.57:712][648]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.01.01:679][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.10.24-18.01.02:915][882]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.01.03:012][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.24-18.01.03:017][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:021][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.10.24-18.01.03:026][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.10.24-18.01.03:030][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:035][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:039][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:044][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:049][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:054][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.10.24-18.01.03:059][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:063][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:068][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:073][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:077][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:082][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.24-18.01.03:086][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.24-18.01.03:091][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:095][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.24-18.01.03:100][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:104][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.10.24-18.01.03:109][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:113][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:118][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:123][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:127][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:131][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:136][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:140][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:145][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:148][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:152][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:157][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:161][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:165][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:170][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.10.24-18.01.03:174][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:178][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:182][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:187][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.10.24-18.01.03:191][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:195][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:200][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:204][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:208][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:213][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:218][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:222][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:226][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:230][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:234][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.03:238][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:243][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:247][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:251][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:255][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:259][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:263][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:267][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.03:275][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.24-18.01.03:279][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.01.05:662][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.07:730][ 21]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.01.07:797][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.24-18.01.07:806][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.24-18.01.07:811][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.01.36:406][134]LogHttp: Warning: 000001AB40AE9D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-18.01.36:406][134]LogHttp: Warning: 000001AB40AE9D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.24-18.01.36:406][134]LogHttp: Warning: 000001AB40AE9D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.24-18.01.36:406][134]LogHttp: Warning: 000001AB40AE9D00: libcurl info message cache 1 (Closing connection 9)
+[2022.10.24-18.01.36:406][134]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-18.02.01:444][359]AssetReimport: New page: Outstanding source content changes 8:02:01 AM
+[2022.10.24-18.02.01:446][359]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/sprite-sheet-5.png)
+[2022.10.24-18.02.01:603][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sprite-sheet-5" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/sprite-sheet-5.uasset" SILENT=true
+[2022.10.24-18.02.01:609][359]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-519F0B0BA464117CC019A15AE27505ACA.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/sprite-sheet-5.uasset'
+[2022.10.24-18.02.01:724][360]AssetCheck: New page: Asset Save: sprite-sheet-5
+[2022.10.24-18.02.01:724][360]LogContentValidation: Display: Validating Texture2D /Game/sprite-sheet-5.sprite-sheet-5
+[2022.10.24-18.02.04:690][532]AssetReimport: Importing new asset /Game/sprite-sheet-5.
+[2022.10.24-18.02.14:876][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.24-18.02.16:149][134]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.02.16:209][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.24-18.02.16:219][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.24-18.02.16:223][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.02.22:472][396]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/sprite-sheet-5.png)
+[2022.10.24-18.02.22:476][396]LogTexture: Display: Building textures: sprite-sheet-5 (BGRA8, 416X255)
+[2022.10.24-18.02.27:854][710]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/CharacterSprites/sprite-sheet-5.sprite-sheet-5
+[2022.10.24-18.02.35:991][190]LogHttp: Warning: 000001AB9A1A4800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-18.02.35:991][190]LogHttp: Warning: 000001AB9A1A4800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.24-18.02.35:991][190]LogHttp: Warning: 000001AB9A1A4800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.24-18.02.35:991][190]LogHttp: Warning: 000001AB9A1A4800: libcurl info message cache 1 (Closing connection 10)
+[2022.10.24-18.02.35:991][190]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-18.02.36:208][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/sprite-sheet-5" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-5.uasset" SILENT=true
+[2022.10.24-18.02.36:213][201]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-57B4DF1064DB0BDCA3DAFD1A480CB4F24.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-5.uasset'
+[2022.10.24-18.02.36:224][201]AssetCheck: New page: Asset Save: sprite-sheet-5
+[2022.10.24-18.02.36:224][201]LogContentValidation: Display: Validating Texture2D /Game/CharacterSprites/sprite-sheet-5.sprite-sheet-5
+[2022.10.24-18.02.37:838][298]LogSlate: Window 'sprite-sheet-5' being destroyed
+[2022.10.24-18.02.37:842][298]LogSlate: Window 'sprite-sheet-5' being destroyed
+[2022.10.24-18.02.53:281][174]LogSlate: Window 'Extract sprites' being destroyed
+[2022.10.24-18.03.02:425][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.24-18.03.04:395][721]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.03.04:442][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.24-18.03.06:039][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.03.07:450][816]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.03.07:493][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.24-18.03.12:137][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.03.13:165][ 94]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.03.13:210][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.24-18.03.15:003][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.03.16:120][201]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.03.16:157][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.24-18.03.30:458][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.24-18.03.31:549][ 57]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.03.31:591][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.24-18.03.35:969][318]LogHttp: Warning: 000001ABAB134F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-18.03.35:969][318]LogHttp: Warning: 000001ABAB134F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.24-18.03.35:969][318]LogHttp: Warning: 000001ABAB134F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.24-18.03.35:969][318]LogHttp: Warning: 000001ABAB134F00: libcurl info message cache 1 (Closing connection 11)
+[2022.10.24-18.03.35:969][318]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-18.04.21:814][ 44]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2022.10.24-18.04.21:814][ 44]LogContentBrowser: Deferred new asset file creation: sprite-sheet-6
+[2022.10.24-18.04.21:829][ 44]LogContentBrowser: Creating deferred item: sprite-sheet-6
+[2022.10.24-18.04.23:055][118]LogContentBrowser: Attempting asset rename: sprite-sheet-6 -> sprite-sheet-6
+[2022.10.24-18.04.23:055][118]LogContentBrowser: End creating deferred item sprite-sheet-6
+[2022.10.24-18.04.23:213][127]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterSprites/sprite-sheet-6.sprite-sheet-6
+[2022.10.24-18.04.23:307][128]LogRenderer: Reallocating scene render targets to support 1004x432 Format 10 NumSamples 1 (Frame:1).
+[2022.10.24-18.04.35:979][885]LogHttp: Warning: 000001ABBC74DD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-18.04.35:979][885]LogHttp: Warning: 000001ABBC74DD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.24-18.04.35:979][885]LogHttp: Warning: 000001ABBC74DD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.24-18.04.35:979][885]LogHttp: Warning: 000001ABBC74DD00: libcurl info message cache 1 (Closing connection 12)
+[2022.10.24-18.04.35:990][886]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-18.05.35:965][434]LogHttp: Warning: 000001ABBC6F4100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-18.05.35:965][434]LogHttp: Warning: 000001ABBC6F4100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.10.24-18.05.35:965][434]LogHttp: Warning: 000001ABBC6F4100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.10.24-18.05.35:965][434]LogHttp: Warning: 000001ABBC6F4100: libcurl info message cache 1 (Closing connection 13)
+[2022.10.24-18.05.35:965][434]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD9B0C64-4F1E-3D0D-61C3-9FAD6C949D2D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0d9816bc457a7a5e98f84fb5def68d38%7Ce205078021714b21b4737c2c0952bf82%7C828b5785-a29d-41e7-90b7-f713b6ea90f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-18.06.09:715][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/sprite-sheet-6" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6.uasset" SILENT=true
+[2022.10.24-18.06.09:718][637]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-652F293A24D757533D7000981016C3B5F.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6.uasset'
+[2022.10.24-18.06.09:728][637]AssetCheck: New page: Asset Save: sprite-sheet-6
+[2022.10.24-18.06.09:728][637]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/sprite-sheet-6.sprite-sheet-6
+[2022.10.24-18.06.16:045][  7]LogContentBrowser: Attempting asset rename: sprite-sheet-6 -> IDle
+[2022.10.24-18.06.16:082][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/IDle" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/IDle.uasset" SILENT=true
+[2022.10.24-18.06.16:084][  7]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/IDleF1344B4A46ED57A8D74758A14E0F75A9.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/IDle.uasset'
+[2022.10.24-18.06.16:129][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.24-18.06.16:140][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.10.24-18.06.16:144][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.06.16:163][  7]AssetCheck: New page: Asset Save: IDle
+[2022.10.24-18.06.16:163][  7]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/IDle.IDle
+[2022.10.24-18.06.18:328][137]LogSlate: Window 'IDle' being destroyed
+[2022.10.24-18.06.18:333][137]LogSlate: Window 'IDle' being destroyed
+[2022.10.24-18.06.18:335][137]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-18.06.18:335][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-18.06.31:758][934]LogContentBrowser: Attempting asset rename: IDle -> A_Idle_01
+[2022.10.24-18.06.31:797][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/A_Idle_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Idle_01.uasset" SILENT=true
+[2022.10.24-18.06.31:800][934]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Idle_0152F7F7D248D355B2DA37CFA4C88AE0BE.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Idle_01.uasset'
+[2022.10.24-18.06.31:864][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.24-18.06.31:874][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.24-18.06.31:879][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.06.31:896][934]AssetCheck: New page: Asset Save: A_Idle_01
+[2022.10.24-18.06.31:896][934]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/A_Idle_01.A_Idle_01
+[2022.10.24-18.06.36:409][202]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterSprites/A_Idle_01.A_Idle_01
+[2022.10.24-18.06.57:757][476]LogSlate: Window 'A_Idle_01' being destroyed
+[2022.10.24-18.06.57:763][476]LogSlate: Window 'A_Idle_01' being destroyed
+[2022.10.24-18.06.57:766][476]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-18.06.57:766][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-18.07.01:112][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/FlipBook/A_Idle_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/FlipBook/A_Idle_01.uasset" SILENT=true
+[2022.10.24-18.07.01:115][669]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Idle_011BE1356D49623064FA5FCE874405CEE1.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/FlipBook/A_Idle_01.uasset'
+[2022.10.24-18.07.01:162][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.24-18.07.01:172][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.24-18.07.01:177][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.07.01:200][669]AssetCheck: New page: Asset Save: A_Idle_01
+[2022.10.24-18.07.01:200][669]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/FlipBook/A_Idle_01.A_Idle_01
+[2022.10.24-18.07.19:455][758]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2022.10.24-18.07.19:456][758]LogContentBrowser: Deferred new asset file creation: sprite-sheet-6
+[2022.10.24-18.07.19:475][758]LogContentBrowser: Creating deferred item: sprite-sheet-6
+[2022.10.24-18.07.22:229][923]LogContentBrowser: Attempting asset rename: sprite-sheet-6 -> sprite-sheet-6
+[2022.10.24-18.07.22:230][923]LogContentBrowser: End creating deferred item sprite-sheet-6
+[2022.10.24-18.07.22:357][930]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterSprites/sprite-sheet-6.sprite-sheet-6
+[2022.10.24-18.08.14:841][ 54]Cmd: TRANSACTION UNDO
+[2022.10.24-18.08.14:841][ 54]LogEditorTransaction: Undo Duplicate Keyframe
+[2022.10.24-18.10.00:473][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/sprite-sheet-6" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6.uasset" SILENT=true
+[2022.10.24-18.10.00:476][362]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6D07688D242D2D73532652A95F0FF2A97.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6.uasset'
+[2022.10.24-18.10.00:487][362]AssetCheck: New page: Asset Save: sprite-sheet-6
+[2022.10.24-18.10.00:487][362]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/sprite-sheet-6.sprite-sheet-6
+[2022.10.24-18.10.02:399][468]LogSlate: Window 'sprite-sheet-6' being destroyed
+[2022.10.24-18.10.02:407][468]LogSlate: Window 'sprite-sheet-6' being destroyed
+[2022.10.24-18.10.02:409][468]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-18.10.02:410][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-18.10.15:096][224]LogContentBrowser: Attempting asset rename: sprite-sheet-6 -> A_Atttack_01
+[2022.10.24-18.10.15:137][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/A_Atttack_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Atttack_01.uasset" SILENT=true
+[2022.10.24-18.10.15:140][224]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Atttack_0178BFDEB0412AE1872A8F36B1A5ACB4A6.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Atttack_01.uasset'
+[2022.10.24-18.10.15:186][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.24-18.10.15:197][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.24-18.10.15:202][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.10.15:219][224]AssetCheck: New page: Asset Save: A_Atttack_01
+[2022.10.24-18.10.15:219][224]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/A_Atttack_01.A_Atttack_01
+[2022.10.24-18.10.19:157][454]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Atttack_010EDD3DCF4055D7AD5DA0DFAA6EFE4FF3.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/FlipBook/A_Atttack_01.uasset'
+[2022.10.24-18.10.19:203][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.10.24-18.10.19:214][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.24-18.10.19:219][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.10.19:242][454]AssetCheck: New page: Asset Save: A_Atttack_01
+[2022.10.24-18.10.19:242][454]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/FlipBook/A_Atttack_01.A_Atttack_01
+[2022.10.24-18.10.44:464][960]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2022.10.24-18.10.44:465][960]LogContentBrowser: Deferred new asset file creation: sprite-sheet-6
+[2022.10.24-18.10.44:480][960]LogContentBrowser: Creating deferred item: sprite-sheet-6
+[2022.10.24-18.10.45:867][ 43]LogContentBrowser: Attempting asset rename: sprite-sheet-6 -> sprite-sheet-6
+[2022.10.24-18.10.45:868][ 43]LogContentBrowser: End creating deferred item sprite-sheet-6
+[2022.10.24-18.10.47:931][164]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterSprites/sprite-sheet-6.sprite-sheet-6
+[2022.10.24-18.10.48:026][165]LogRenderer: Reallocating scene render targets to support 1008x432 Format 10 NumSamples 1 (Frame:1).
+[2022.10.24-18.11.00:097][882]LogSlate: Window 'sprite-sheet-6' being destroyed
+[2022.10.24-18.11.00:104][882]LogSlate: Window 'sprite-sheet-6' being destroyed
+[2022.10.24-18.11.00:105][882]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-18.11.00:105][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-18.11.00:856][927]Cmd: TRANSACTION UNDO
+[2022.10.24-18.11.00:856][927]LogEditorTransaction: Undo Edit Frames Per Second
+[2022.10.24-18.11.05:801][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.10.24-18.11.07:376][205]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.11.07:420][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.10.24-18.11.18:827][883]LogContentBrowser: Attempting asset rename: sprite-sheet-5_Sprite_6 -> Sit_01
+[2022.10.24-18.11.18:868][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/Sit_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/Sit_01.uasset" SILENT=true
+[2022.10.24-18.11.18:871][883]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/Sit_0176C32427483017746323F49052A68723.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/Sit_01.uasset'
+[2022.10.24-18.11.18:916][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.24-18.11.18:926][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.10.24-18.11.18:930][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.11.18:948][883]AssetCheck: New page: Asset Save: Sit_01
+[2022.10.24-18.11.18:948][883]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/Sit_01.Sit_01
+[2022.10.24-18.11.27:979][418]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2022.10.24-18.11.27:979][418]LogContentBrowser: Deferred new asset file creation: sprite-sheet-6
+[2022.10.24-18.11.27:994][418]LogContentBrowser: Creating deferred item: sprite-sheet-6
+[2022.10.24-18.11.29:754][524]LogContentBrowser: Attempting asset rename: sprite-sheet-6 -> sprite-sheet-6
+[2022.10.24-18.11.29:754][524]LogContentBrowser: End creating deferred item sprite-sheet-6
+[2022.10.24-18.11.31:112][605]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterSprites/sprite-sheet-6.sprite-sheet-6
+[2022.10.24-18.12.20:560][182]LogSlate: Window 'sprite-sheet-6' being destroyed
+[2022.10.24-18.12.20:566][182]LogSlate: Window 'sprite-sheet-6' being destroyed
+[2022.10.24-18.12.20:567][182]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-18.12.20:567][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-18.12.27:665][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.24-18.12.36:249][601]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.12.36:259][601]LogUObjectGlobals: Force Deleting 61 Package(s):
+	Asset Name: /Game/CharacterSprites/sprite-sheet-6.sprite-sheet-6
+	Asset Name: /Game/CharacterSprites/Sit_01.Sit_01
+	Asset Name: /Game/CharacterSprites/sprite-sheet-5.sprite-sheet-5
+	Asset Name: /Game/CharacterSprites/sprite-sheet-5_Sprite_0.sprite-sheet-5_Sprite_0
+	Asset Name: /Game/CharacterSprites/sprite-sheet-5_Sprite_1.sprite-sheet-5_Sprite_1
+	Asset Name: /Game/CharacterSprites/sprite-sheet-5_Sprite_2.sprite-sheet-5_Sprite_2
+	Asset Name: /Game/CharacterSprites/sprite-sheet-5_Sprite_3.sprite-sheet-5_Sprite_3
+	Asset Name: /Game/CharacterSprites/sprite-sheet-5_Sprite_4.sprite-sheet-5_Sprite_4
+	Asset Name: /Game/CharacterSprites/sprite-sheet-5_Sprite_5.sprite-sheet-5_Sprite_5
+	Asset Name: /Game/CharacterSprites/sprite-sheet-5_Sprite_7.sprite-sheet-5_Sprite_7
+[2022.10.24-18.12.40:451][601]LogSlate: Window 'Message' being destroyed
+[2022.10.24-18.12.40:456][601]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/CharacterSprites/sprite-sheet-5.sprite-sheet-5 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/CharacterSprites/sprite-sheet-5.sprite-sheet-5:
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_59.sprite-sheet-5_Sprite_59 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_19.sprite-sheet-5_Sprite_19 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_58.sprite-sheet-5_Sprite_58 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_57.sprite-sheet-5_Sprite_57 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_18.sprite-sheet-5_Sprite_18 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_56.sprite-sheet-5_Sprite_56 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_55.sprite-sheet-5_Sprite_55 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_17.sprite-sheet-5_Sprite_17 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_54.sprite-sheet-5_Sprite_54 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_16.sprite-sheet-5_Sprite_16 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_15.sprite-sheet-5_Sprite_15 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_14.sprite-sheet-5_Sprite_14 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_13.sprite-sheet-5_Sprite_13 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_53.sprite-sheet-5_Sprite_53 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_52.sprite-sheet-5_Sprite_52 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_11.sprite-sheet-5_Sprite_11 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_10.sprite-sheet-5_Sprite_10 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_9.sprite-sheet-5_Sprite_9 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_47.sprite-sheet-5_Sprite_47 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_46.sprite-sheet-5_Sprite_46 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_8.sprite-sheet-5_Sprite_8 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_5.sprite-sheet-5_Sprite_5 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_45.sprite-sheet-5_Sprite_45 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_7.sprite-sheet-5_Sprite_7 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_44.sprite-sheet-5_Sprite_44 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_43.sprite-sheet-5_Sprite_43 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_42.sprite-sheet-5_Sprite_42 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_4.sprite-sheet-5_Sprite_4 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_41.sprite-sheet-5_Sprite_41 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_40.sprite-sheet-5_Sprite_40 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_3.sprite-sheet-5_Sprite_3 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_39.sprite-sheet-5_Sprite_39 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_38.sprite-sheet-5_Sprite_38 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_2.sprite-sheet-5_Sprite_2 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_37.sprite-sheet-5_Sprite_37 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_36.sprite-sheet-5_Sprite_36 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_1.sprite-sheet-5_Sprite_1 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_35.sprite-sheet-5_Sprite_35 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_34.sprite-sheet-5_Sprite_34 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_0.sprite-sheet-5_Sprite_0 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_33.sprite-sheet-5_Sprite_33 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_32.sprite-sheet-5_Sprite_32 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_31.sprite-sheet-5_Sprite_31 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_30.sprite-sheet-5_Sprite_30 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_29.sprite-sheet-5_Sprite_29 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_28.sprite-sheet-5_Sprite_28 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_27.sprite-sheet-5_Sprite_27 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_26.sprite-sheet-5_Sprite_26 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_21.sprite-sheet-5_Sprite_21 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_20.sprite-sheet-5_Sprite_20 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_69.sprite-sheet-5_Sprite_69 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_68.sprite-sheet-5_Sprite_68 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_67.sprite-sheet-5_Sprite_67 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_66.sprite-sheet-5_Sprite_66 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_65.sprite-sheet-5_Sprite_65 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_62.sprite-sheet-5_Sprite_62 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_61.sprite-sheet-5_Sprite_61 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/CharacterSprites/sprite-sheet-5_Sprite_60.sprite-sheet-5_Sprite_60 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2022.10.24-18.12.40:457][601]LogObjectTools: Warning: ForceDeleteObject failed to delete sprite-sheet-5, this package is now potentially corrupt
+[2022.10.24-18.12.40:815][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.24-18.12.40:820][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.24-18.12.40:824][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.12.40:825][601]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.24-18.12.40:886][601]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.061 s
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: === Handled ensure: ===
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: 
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3205]
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: 
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: 					from the file system manually: 
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: /Game/CharacterSprites/sprite-sheet-5
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: Stack: 
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007fface0fdaa8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffacd9c55f9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffacd10b269 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffacd3f0dde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffacd3e7e97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffae865a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffae867280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffae84c421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffae853e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffae8527097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffae8519b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffaf8b8c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffaf8b792b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffaf8b8e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffaf8b74410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffb4e12e858 USER32.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffb4e12e299 USER32.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffaf8b8fb79 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffae854865a UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffae84e6b09 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffacd483e9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffacd9b8de2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffacd9b8184 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffab2832bac UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffab2832faa UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffab28223a7 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffac607f685 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffac61932fe UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffac61743c6 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffae85a9657 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffae85f6e4a UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffac61af6f0 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffae84c2112 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffae8525087 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffae8518756 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffaf8b8bcc8 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffaf8b792b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffaf8b8e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffaf8b74410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffb4e12e858 USER32.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffb4e12e299 USER32.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffaf8b8fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ff6d5047621 UE4Editor.exe!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ff6d5060fcc UE4Editor.exe!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ff6d50610ba UE4Editor.exe!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ff6d50640dd UE4Editor.exe!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ff6d5075984 UE4Editor.exe!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ff6d507853a UE4Editor.exe!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffb4e2d7034 KERNEL32.DLL!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: [Callstack] 0x00007ffb4e9c26a1 ntdll.dll!UnknownFunction []
+[2022.10.24-18.12.40:887][601]LogOutputDevice: Error: 
+[2022.10.24-18.12.40:892][601]LogStats:                SubmitErrorReport -  0.000 s
+[2022.10.24-18.12.41:807][601]LogStats:                    SendNewReport -  0.915 s
+[2022.10.24-18.12.41:807][601]LogStats:             FDebug::EnsureFailed -  0.981 s
+[2022.10.24-18.12.44:849][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.12.44:850][781]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.005
+[2022.10.24-18.12.44:850][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CharacterSprites/sprite-sheet-5] ([1] browsable assets)...
+[2022.10.24-18.12.44:850][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterSprites/sprite-sheet-5]
+[2022.10.24-18.12.44:852][781]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-5_Auto1D609DC39469E89199AE0E6A2E9D621A7.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/Autosaves/Game/CharacterSprites/sprite-sheet-5_Auto1.uasset'
+[2022.10.24-18.12.44:853][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterSprites/FlipBook/A_Atttack_01] ([1] browsable assets)...
+[2022.10.24-18.12.44:858][781]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/CharacterSprites/FlipBook/A_Atttack_01.A_Atttack_01]
+[2022.10.24-18.12.44:858][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterSprites/FlipBook/A_Atttack_01]
+[2022.10.24-18.12.44:860][781]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Atttack_01_Auto1AF54EB9C421FD2601424FEA266B3E412.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/Autosaves/Game/CharacterSprites/FlipBook/A_Atttack_01_Auto1.uasset'
+[2022.10.24-18.12.44:860][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterSprites/FlipBook/A_Idle_01] ([1] browsable assets)...
+[2022.10.24-18.12.44:865][781]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/CharacterSprites/FlipBook/A_Idle_01.A_Idle_01]
+[2022.10.24-18.12.44:865][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterSprites/FlipBook/A_Idle_01]
+[2022.10.24-18.12.44:867][781]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Idle_01_Auto15D14CB2949C8C6F2EC145D82F9AD2CE7.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/Autosaves/Game/CharacterSprites/FlipBook/A_Idle_01_Auto1.uasset'
+[2022.10.24-18.12.44:868][781]LogFileHelpers: Auto-saving content packages took 0.018
+[2022.10.24-18.12.45:818][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.24-18.12.48:782][838]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.12.48:846][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.10.24-18.12.48:851][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.10.24-18.12.48:862][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.10.24-18.12.48:866][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.12.52:862][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.10.24-18.12.54:153][ 77]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.12.54:213][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.24-18.12.54:223][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.24-18.12.54:228][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.24-18.12.59:494][265]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/sprite-sheet-6.png)
+[2022.10.24-18.12.59:500][265]LogTexture: Display: Building textures: sprite-sheet-6 (BGRA8, 416X255)
+[2022.10.24-18.13.04:308][539]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/CharacterSprites/sprite-sheet-6.sprite-sheet-6
+[2022.10.24-18.13.14:547][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/sprite-sheet-6" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6.uasset" SILENT=true
+[2022.10.24-18.13.14:551][146]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-65E9518F145AFE489028D6F946ADB3287.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6.uasset'
+[2022.10.24-18.13.14:561][146]AssetCheck: New page: Asset Save: sprite-sheet-6
+[2022.10.24-18.13.14:561][146]LogContentValidation: Display: Validating Texture2D /Game/CharacterSprites/sprite-sheet-6.sprite-sheet-6
+[2022.10.24-18.13.15:707][213]LogSlate: Window 'sprite-sheet-6' being destroyed
+[2022.10.24-18.13.15:711][213]LogSlate: Window 'sprite-sheet-6' being destroyed
+[2022.10.24-18.13.27:040][841]LogSlate: Window 'Extract sprites' being destroyed
+[2022.10.24-18.13.32:813][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.24-18.13.35:582][185]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.13.35:632][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.24-18.13.42:955][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.13.44:195][623]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.13.44:250][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.24-18.13.48:794][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.24-18.13.50:397][895]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.13.50:448][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.10.24-18.13.58:543][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.24-18.13.59:702][379]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-18.13.59:767][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.24-18.14.08:039][864]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2022.10.24-18.14.08:039][864]LogContentBrowser: Deferred new asset file creation: sprite-sheet-7
+[2022.10.24-18.14.08:054][864]LogContentBrowser: Creating deferred item: sprite-sheet-7
+[2022.10.24-18.14.09:416][946]LogContentBrowser: Attempting asset rename: sprite-sheet-7 -> sprite-sheet-7
+[2022.10.24-18.14.09:416][946]LogContentBrowser: End creating deferred item sprite-sheet-7
+[2022.10.24-18.14.20:691][617]LogContentBrowser: Attempting asset rename: sprite-sheet-7 -> A_Dog_Idle_01
+[2022.10.24-18.14.20:725][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/A_Dog_Idle_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Dog_Idle_01.uasset" SILENT=true
+[2022.10.24-18.14.20:728][617]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Dog_Idle_01B5C6EE9F46F99B778FBECFBBFE8E0420.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Dog_Idle_01.uasset'
+[2022.10.24-18.14.20:775][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.24-18.14.20:787][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.10.24-18.14.20:792][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.14.20:809][617]AssetCheck: New page: Asset Save: A_Dog_Idle_01
+[2022.10.24-18.14.20:809][617]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/A_Dog_Idle_01.A_Dog_Idle_01
+[2022.10.24-18.14.23:756][784]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterSprites/A_Dog_Idle_01.A_Dog_Idle_01
+[2022.10.24-18.14.23:851][785]LogRenderer: Reallocating scene render targets to support 1012x432 Format 10 NumSamples 1 (Frame:1).
+[2022.10.24-18.14.43:059][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/A_Dog_Idle_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Dog_Idle_01.uasset" SILENT=true
+[2022.10.24-18.14.43:062][928]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Dog_Idle_01229F9A57479D7404C08741A02863C9F0.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Dog_Idle_01.uasset'
+[2022.10.24-18.14.43:071][928]AssetCheck: New page: Asset Save: A_Dog_Idle_01
+[2022.10.24-18.14.43:071][928]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/A_Dog_Idle_01.A_Dog_Idle_01
+[2022.10.24-18.15.01:227][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/A_Dog_Idle_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Dog_Idle_01.uasset" SILENT=true
+[2022.10.24-18.15.01:229][  6]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Dog_Idle_0133D005194DF31F1CE62DE3B71341932A.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Dog_Idle_01.uasset'
+[2022.10.24-18.15.01:239][  6]AssetCheck: New page: Asset Save: A_Dog_Idle_01
+[2022.10.24-18.15.01:240][  6]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/A_Dog_Idle_01.A_Dog_Idle_01
+[2022.10.24-18.15.02:213][ 65]LogSlate: Window 'A_Dog_Idle_01' being destroyed
+[2022.10.24-18.15.02:217][ 65]LogSlate: Window 'A_Dog_Idle_01' being destroyed
+[2022.10.24-18.15.02:218][ 65]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-18.15.02:219][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-18.15.04:696][206]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Dog_Idle_01E3DD27B44305165E382DFE8E03A43931.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/FlipBook/A_Dog_Idle_01.uasset'
+[2022.10.24-18.15.04:740][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.24-18.15.04:751][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.24-18.15.04:756][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.24-18.15.04:779][206]AssetCheck: New page: Asset Save: A_Dog_Idle_01
+[2022.10.24-18.15.04:779][206]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/FlipBook/A_Dog_Idle_01.A_Dog_Idle_01
+[2022.10.24-18.15.15:300][831]LogContentBrowser: Attempting asset rename: sprite-sheet-6_Sprite_6 -> Dog_Sit_01
+[2022.10.24-18.15.15:342][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/Dog_Sit_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/Dog_Sit_01.uasset" SILENT=true
+[2022.10.24-18.15.15:345][831]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/Dog_Sit_014DEA14CA42C79ADAA9037D8EB50E9DE5.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/Dog_Sit_01.uasset'
+[2022.10.24-18.15.15:390][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.24-18.15.15:400][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.24-18.15.15:404][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.24-18.15.15:422][831]AssetCheck: New page: Asset Save: Dog_Sit_01
+[2022.10.24-18.15.15:422][831]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/Dog_Sit_01.Dog_Sit_01
+[2022.10.24-18.15.29:935][565]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2022.10.24-18.15.29:935][565]LogContentBrowser: Deferred new asset file creation: sprite-sheet-7
+[2022.10.24-18.15.29:950][565]LogContentBrowser: Creating deferred item: sprite-sheet-7
+[2022.10.24-18.15.32:794][736]LogContentBrowser: Attempting asset rename: sprite-sheet-7 -> sprite-sheet-7
+[2022.10.24-18.15.32:794][736]LogContentBrowser: End creating deferred item sprite-sheet-7
+[2022.10.24-18.15.42:200][295]LogContentBrowser: Attempting asset rename: sprite-sheet-7 -> A_Porc_Attack_01
+[2022.10.24-18.15.42:240][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/A_Porc_Attack_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Porc_Attack_01.uasset" SILENT=true
+[2022.10.24-18.15.42:242][295]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Porc_Attack_015DD8409E422BC949AFF778B2018454C5.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Porc_Attack_01.uasset'
+[2022.10.24-18.15.42:288][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.24-18.15.42:298][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.24-18.15.42:302][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.15.42:319][295]AssetCheck: New page: Asset Save: A_Porc_Attack_01
+[2022.10.24-18.15.42:319][295]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/A_Porc_Attack_01.A_Porc_Attack_01
+[2022.10.24-18.15.46:053][509]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterSprites/A_Porc_Attack_01.A_Porc_Attack_01
+[2022.10.24-18.16.10:390][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/A_Porc_Attack_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Porc_Attack_01.uasset" SILENT=true
+[2022.10.24-18.16.10:392][950]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Porc_Attack_01819174004F3DA7A6DF5D94B18785357F.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Porc_Attack_01.uasset'
+[2022.10.24-18.16.10:402][950]AssetCheck: New page: Asset Save: A_Porc_Attack_01
+[2022.10.24-18.16.10:402][950]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/A_Porc_Attack_01.A_Porc_Attack_01
+[2022.10.24-18.16.11:618][ 21]LogSlate: Window 'A_Porc_Attack_01' being destroyed
+[2022.10.24-18.16.11:621][ 21]LogSlate: Window 'A_Porc_Attack_01' being destroyed
+[2022.10.24-18.16.11:622][ 21]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-18.16.11:622][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-18.16.23:236][713]LogContentBrowser: Attempting asset rename: sprite-sheet-6_Sprite_11 -> Porc_Idle_01
+[2022.10.24-18.16.23:272][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/Porc_Idle_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/Porc_Idle_01.uasset" SILENT=true
+[2022.10.24-18.16.23:274][713]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/Porc_Idle_01B932DE604E2C2B52B346B5BAC4821C0F.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/Porc_Idle_01.uasset'
+[2022.10.24-18.16.23:322][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.24-18.16.23:331][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.24-18.16.23:336][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.16.23:350][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/A_Porc_Attack_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Porc_Attack_01.uasset" SILENT=true
+[2022.10.24-18.16.23:351][713]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Porc_Attack_018053A14049C2536668C5ABBBD1AEFCFA.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Porc_Attack_01.uasset'
+[2022.10.24-18.16.23:374][713]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.24-18.16.23:374][713]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/A_Porc_Attack_01.A_Porc_Attack_01
+[2022.10.24-18.16.23:374][713]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/Porc_Idle_01.Porc_Idle_01
+[2022.10.24-18.16.30:884][158]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2022.10.24-18.16.30:884][158]LogContentBrowser: Deferred new asset file creation: sprite-sheet-7
+[2022.10.24-18.16.30:901][158]LogContentBrowser: Creating deferred item: sprite-sheet-7
+[2022.10.24-18.16.32:431][250]LogContentBrowser: Attempting asset rename: sprite-sheet-7 -> sprite-sheet-7
+[2022.10.24-18.16.32:431][250]LogContentBrowser: End creating deferred item sprite-sheet-7
+[2022.10.24-18.16.35:568][437]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterSprites/sprite-sheet-7.sprite-sheet-7
+[2022.10.24-18.16.35:659][438]LogRenderer: Reallocating scene render targets to support 1016x432 Format 10 NumSamples 1 (Frame:1).
+[2022.10.24-18.17.42:086][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/sprite-sheet-7" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-7.uasset" SILENT=true
+[2022.10.24-18.17.42:088][382]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-77540B01D4B0A28F621CE5A84E667A9E1.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-7.uasset'
+[2022.10.24-18.17.42:099][382]AssetCheck: New page: Asset Save: sprite-sheet-7
+[2022.10.24-18.17.42:099][382]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/sprite-sheet-7.sprite-sheet-7
+[2022.10.24-18.17.43:731][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/sprite-sheet-7" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-7.uasset" SILENT=true
+[2022.10.24-18.17.43:732][474]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-7BD7F4B354AFC9FF7DAA12892F278145F.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-7.uasset'
+[2022.10.24-18.17.43:741][474]AssetCheck: New page: Asset Save: sprite-sheet-7
+[2022.10.24-18.17.43:741][474]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/sprite-sheet-7.sprite-sheet-7
+[2022.10.24-18.17.45:263][563]LogSlate: Window 'sprite-sheet-7' being destroyed
+[2022.10.24-18.17.45:267][563]LogSlate: Window 'sprite-sheet-7' being destroyed
+[2022.10.24-18.17.45:268][563]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-18.17.45:268][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-18.17.54:547][113]LogContentBrowser: Attempting asset rename: sprite-sheet-7 -> A_Dog_Walk_01
+[2022.10.24-18.17.54:584][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/A_Dog_Walk_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Dog_Walk_01.uasset" SILENT=true
+[2022.10.24-18.17.54:586][113]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Dog_Walk_019DB3B6D1476DAF0884EB13ABFF330301.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Dog_Walk_01.uasset'
+[2022.10.24-18.17.54:634][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.24-18.17.54:645][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.24-18.17.54:649][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.17.54:666][113]AssetCheck: New page: Asset Save: A_Dog_Walk_01
+[2022.10.24-18.17.54:666][113]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/A_Dog_Walk_01.A_Dog_Walk_01
+[2022.10.24-18.18.00:297][438]LogContentBrowser: Deferred new asset file creation: A_Dog_Walk_02
+[2022.10.24-18.18.00:314][438]LogContentBrowser: Creating deferred item: A_Dog_Walk_02
+[2022.10.24-18.18.06:735][824]LogContentBrowser: Attempting asset rename: A_Dog_Walk_02 -> A_Dog_Run_01
+[2022.10.24-18.18.06:736][824]LogContentBrowser: End creating deferred item A_Dog_Walk_02
+[2022.10.24-18.20.50:507][644]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterSprites/A_Dog_Run_01.A_Dog_Run_01
+[2022.10.24-18.21.25:377][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/A_Dog_Run_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Dog_Run_01.uasset" SILENT=true
+[2022.10.24-18.21.25:380][668]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Dog_Run_012F98DD374A3F7FF61D8EB8883416F0B0.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Dog_Run_01.uasset'
+[2022.10.24-18.21.25:390][668]AssetCheck: New page: Asset Save: A_Dog_Run_01
+[2022.10.24-18.21.25:390][668]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/A_Dog_Run_01.A_Dog_Run_01
+[2022.10.24-18.21.26:872][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterSprites/A_Dog_Run_01" FILE="C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Dog_Run_01.uasset" SILENT=true
+[2022.10.24-18.21.26:873][756]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Dog_Run_01E56084B74C862F012F10959C7E857CD4.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/A_Dog_Run_01.uasset'
+[2022.10.24-18.21.26:882][756]AssetCheck: New page: Asset Save: A_Dog_Run_01
+[2022.10.24-18.21.26:882][756]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/A_Dog_Run_01.A_Dog_Run_01
+[2022.10.24-18.21.28:205][835]LogSlate: Window 'A_Dog_Run_01' being destroyed
+[2022.10.24-18.21.28:209][835]LogSlate: Window 'A_Dog_Run_01' being destroyed
+[2022.10.24-18.21.28:210][835]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-18.21.28:210][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-18.21.39:161][485]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Dog_Run_01C85D60544AE0E862732EC09EDBB1F5FF.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/FlipBook/A_Dog_Run_01.uasset'
+[2022.10.24-18.21.39:169][485]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Dog_Walk_0108FAD0504ACA0D4CE19DC5B8087BFF2A.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/FlipBook/A_Dog_Walk_01.uasset'
+[2022.10.24-18.21.39:177][485]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/A_Porc_Attack_01640B27D141FE6C760F25C8841C819AD8.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/FlipBook/A_Porc_Attack_01.uasset'
+[2022.10.24-18.21.39:244][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.24-18.21.39:250][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.24-18.21.39:254][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.21.39:264][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.24-18.21.39:269][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.24-18.21.39:295][485]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.24-18.21.39:295][485]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/FlipBook/A_Porc_Attack_01.A_Porc_Attack_01
+[2022.10.24-18.21.39:295][485]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/FlipBook/A_Dog_Walk_01.A_Dog_Walk_01
+[2022.10.24-18.21.39:295][485]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterSprites/FlipBook/A_Dog_Run_01.A_Dog_Run_01
+[2022.10.24-18.21.46:108][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.10.24-18.21.51:648][888]LogSlate: Window 'Save Content' being destroyed
+[2022.10.24-18.21.51:698][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_0E6C9276A4EDDD260E29ADE9F008D304F.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_0.uasset'
+[2022.10.24-18.21.51:707][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_171DE1026476854B524FD37A024C7BA27.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_1.uasset'
+[2022.10.24-18.21.51:716][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_10FE3764334EB59752333F50A578F04531.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_10.uasset'
+[2022.10.24-18.21.51:725][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_13EE08B0C541EA8B8C63C4A68E4D381845.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_13.uasset'
+[2022.10.24-18.21.51:734][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_14837FC37343BFCE2B048DD09A5D872EDA.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_14.uasset'
+[2022.10.24-18.21.51:743][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_154523FAE540AB79A7DAE2288DF092C375.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_15.uasset'
+[2022.10.24-18.21.51:753][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_169C5D1D364CE81909564AC987DB72CBF7.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_16.uasset'
+[2022.10.24-18.21.51:762][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_174F44D1AD4E1DE04559A12C81E87C36F9.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_17.uasset'
+[2022.10.24-18.21.51:771][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_18AA71E7C94AC21E424B173490F93C6779.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_18.uasset'
+[2022.10.24-18.21.51:779][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_192B9796B642542C500E6F7C85916C57AC.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_19.uasset'
+[2022.10.24-18.21.51:789][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_21938984A48E9A7584ECC3D861759A59D.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_2.uasset'
+[2022.10.24-18.21.51:798][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_205268341349224C37651B33BEDFAA6F4E.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_20.uasset'
+[2022.10.24-18.21.51:807][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_218E6C25374F08508F8A0BF29CA5642DFF.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_21.uasset'
+[2022.10.24-18.21.51:816][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_223153747E447FE457FFD850A7DC71F33F.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_22.uasset'
+[2022.10.24-18.21.51:824][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_236E85B09142B5D75480410ABABB8961C5.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_23.uasset'
+[2022.10.24-18.21.51:834][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_24558CF1674DCC70388388748670C9CA12.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_24.uasset'
+[2022.10.24-18.21.51:842][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_25CA4EF6E44758930F0B6FF2B51E6C0A93.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_25.uasset'
+[2022.10.24-18.21.51:851][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_268AB4E5B94C3AD18FE2FEBE98A630756A.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_26.uasset'
+[2022.10.24-18.21.51:860][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_2727CE29C94FD4519F0C58108CCF47F2EC.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_27.uasset'
+[2022.10.24-18.21.51:869][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_284E65D08F4E2A2E29CF548D99349EA083.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_28.uasset'
+[2022.10.24-18.21.51:878][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_29D942BF84494D636B9726BC88F8D0C7AA.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_29.uasset'
+[2022.10.24-18.21.51:887][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_34D9AFAD64781ADBDFE64E0A197613311.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_3.uasset'
+[2022.10.24-18.21.51:896][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_30418C1682430EA215C20A94B6DB318112.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_30.uasset'
+[2022.10.24-18.21.51:905][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_3179C9349D446E7795C42C53AA24CD98F7.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_31.uasset'
+[2022.10.24-18.21.51:914][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_32C7E8B779437FC3A16695C89E26B6EFCF.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_32.uasset'
+[2022.10.24-18.21.51:923][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_33A67ADD7D4B190808F52C58BF3B893B5F.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_33.uasset'
+[2022.10.24-18.21.51:931][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_346DDB68A3444AA030819156A53D1BEE1A.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_34.uasset'
+[2022.10.24-18.21.51:940][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_3521977D2D4E41B0F6A1B8F9881FE65DE1.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_35.uasset'
+[2022.10.24-18.21.51:949][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_360005F1164B7D9FEB334C24BB53EA801C.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_36.uasset'
+[2022.10.24-18.21.51:958][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_37341C299740BD8BBDD4D7EAA55222DEDB.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_37.uasset'
+[2022.10.24-18.21.51:967][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_389C8205AF45E22540536F298F8B4AC0A7.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_38.uasset'
+[2022.10.24-18.21.51:976][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_39789AAF354569F39E8B1731940AD2D4F0.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_39.uasset'
+[2022.10.24-18.21.51:984][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_4CAFECDB942993C146DDEE6B81E9451E4.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_4.uasset'
+[2022.10.24-18.21.51:994][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_404427F3704690234C794B4FB9F2E61FFC.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_40.uasset'
+[2022.10.24-18.21.52:003][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_41506A862C41892FC7EFFE5497D2B98D0C.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_41.uasset'
+[2022.10.24-18.21.52:011][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_420CD3393748506ED8EAB4CBBA5BDDAE87.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_42.uasset'
+[2022.10.24-18.21.52:020][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_43A83252D1462129BB102639AFB33C8FAC.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_43.uasset'
+[2022.10.24-18.21.52:029][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_44C042E8534434C246945465863B23F92B.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_44.uasset'
+[2022.10.24-18.21.52:038][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_45EADD1E564EB22A60699E5EB4A7897DE3.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_45.uasset'
+[2022.10.24-18.21.52:047][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_461A37403643F02F1740A27D88A507BB50.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_46.uasset'
+[2022.10.24-18.21.52:056][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_47E7F49D784618DF1888808394A41947E1.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_47.uasset'
+[2022.10.24-18.21.52:065][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_51DB9DF3D47BA2B7C96E2BAB711F2CBB7.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_5.uasset'
+[2022.10.24-18.21.52:074][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_52D3CE757A46BCD8625451D8B732E50464.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_52.uasset'
+[2022.10.24-18.21.52:082][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_5373557558427C09929D0AEBABFA3EEFC0.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_53.uasset'
+[2022.10.24-18.21.52:092][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_542A13B5CB4EABB86BEDB6DB8CDFB26519.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_54.uasset'
+[2022.10.24-18.21.52:101][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_55F21C80BC46FA38EEC3099A8A9C2424A1.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_55.uasset'
+[2022.10.24-18.21.52:110][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_56EFBE51F74B690F547C98389502B8480E.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_56.uasset'
+[2022.10.24-18.21.52:119][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_574FC885C84E94DDE4D9EEB585F1442878.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_57.uasset'
+[2022.10.24-18.21.52:128][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_58AF3094A6443A1E91099D339F4538D193.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_58.uasset'
+[2022.10.24-18.21.52:136][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_59710017AA4CF44835DE5DF88D643816AC.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_59.uasset'
+[2022.10.24-18.21.52:146][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_6049B9982C406343FD7B9165BB3D6A1D5D.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_60.uasset'
+[2022.10.24-18.21.52:154][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_6124C46A5144D183AF097533871BB07867.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_61.uasset'
+[2022.10.24-18.21.52:163][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_6290C4E2644B18C67078EC69A133C7CA9C.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_62.uasset'
+[2022.10.24-18.21.52:172][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_65BCD28A9F4B8E480C170CA3BD22444986.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_65.uasset'
+[2022.10.24-18.21.52:181][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_666BBCA79E49D4860C80A3968402753C92.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_66.uasset'
+[2022.10.24-18.21.52:190][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_67F08158FF42E6B2FD291A7F9249CD7A42.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_67.uasset'
+[2022.10.24-18.21.52:198][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_68B09CF2D64F5F739D1CB16694226F522A.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_68.uasset'
+[2022.10.24-18.21.52:207][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_697D3B33AE47BB830C8FD8A4B6707038AD.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_69.uasset'
+[2022.10.24-18.21.52:216][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_7454E1D00455250243E28C7A52A532EA3.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_7.uasset'
+[2022.10.24-18.21.52:225][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_88C99E8A24F8EB2FE632AE69AF20B4189.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_8.uasset'
+[2022.10.24-18.21.52:234][888]LogSavePackage: Moving 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Saved/sprite-sheet-6_Sprite_9989509044064B3C8500DC18CCFC9B3DF.tmp' to 'C:/Users/Nitro 5 PC/Documents/Unreal Projects/Project_1_Dog/Content/CharacterSprites/sprite-sheet-6_Sprite_9.uasset'
+[2022.10.24-18.21.52:248][888]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_68.sprite-sheet-6_Sprite_68
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_69.sprite-sheet-6_Sprite_69
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_67.sprite-sheet-6_Sprite_67
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_66.sprite-sheet-6_Sprite_66
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_65.sprite-sheet-6_Sprite_65
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_62.sprite-sheet-6_Sprite_62
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_61.sprite-sheet-6_Sprite_61
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_60.sprite-sheet-6_Sprite_60
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_58.sprite-sheet-6_Sprite_58
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_59.sprite-sheet-6_Sprite_59
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_57.sprite-sheet-6_Sprite_57
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_56.sprite-sheet-6_Sprite_56
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_55.sprite-sheet-6_Sprite_55
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_54.sprite-sheet-6_Sprite_54
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_53.sprite-sheet-6_Sprite_53
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_52.sprite-sheet-6_Sprite_52
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_47.sprite-sheet-6_Sprite_47
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_46.sprite-sheet-6_Sprite_46
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_45.sprite-sheet-6_Sprite_45
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_44.sprite-sheet-6_Sprite_44
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_42.sprite-sheet-6_Sprite_42
+[2022.10.24-18.21.52:248][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_43.sprite-sheet-6_Sprite_43
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_41.sprite-sheet-6_Sprite_41
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_40.sprite-sheet-6_Sprite_40
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_39.sprite-sheet-6_Sprite_39
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_38.sprite-sheet-6_Sprite_38
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_36.sprite-sheet-6_Sprite_36
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_37.sprite-sheet-6_Sprite_37
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_35.sprite-sheet-6_Sprite_35
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_33.sprite-sheet-6_Sprite_33
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_34.sprite-sheet-6_Sprite_34
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_32.sprite-sheet-6_Sprite_32
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_31.sprite-sheet-6_Sprite_31
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_30.sprite-sheet-6_Sprite_30
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_29.sprite-sheet-6_Sprite_29
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_28.sprite-sheet-6_Sprite_28
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_27.sprite-sheet-6_Sprite_27
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_26.sprite-sheet-6_Sprite_26
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_24.sprite-sheet-6_Sprite_24
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_23.sprite-sheet-6_Sprite_23
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_25.sprite-sheet-6_Sprite_25
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_22.sprite-sheet-6_Sprite_22
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_20.sprite-sheet-6_Sprite_20
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_21.sprite-sheet-6_Sprite_21
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_19.sprite-sheet-6_Sprite_19
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_18.sprite-sheet-6_Sprite_18
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_17.sprite-sheet-6_Sprite_17
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_16.sprite-sheet-6_Sprite_16
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_15.sprite-sheet-6_Sprite_15
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_14.sprite-sheet-6_Sprite_14
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_13.sprite-sheet-6_Sprite_13
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_10.sprite-sheet-6_Sprite_10
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_8.sprite-sheet-6_Sprite_8
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_7.sprite-sheet-6_Sprite_7
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_5.sprite-sheet-6_Sprite_5
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_4.sprite-sheet-6_Sprite_4
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_3.sprite-sheet-6_Sprite_3
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_2.sprite-sheet-6_Sprite_2
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_1.sprite-sheet-6_Sprite_1
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_9.sprite-sheet-6_Sprite_9
+[2022.10.24-18.21.52:249][888]LogContentValidation: Display: Validating PaperSprite /Game/CharacterSprites/sprite-sheet-6_Sprite_0.sprite-sheet-6_Sprite_0
